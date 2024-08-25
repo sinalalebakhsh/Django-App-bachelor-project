@@ -1,3 +1,6 @@
+# این رو اول ببین سینا!!!
+https://medium.com/@omaraamir19966/connect-django-with-mysql-database-f946d0f6f9e3
+
 # bachelor-project
 My Bachelor project for Pr. Shabnam Asbaghi - Karaj Islamic Azad University
 
